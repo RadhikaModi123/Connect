@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://nikhil:nikhil@cluster0.uvd3b.mongodb.net/Connect?retryWrites=true&w=majority",
+    "jwtSecret": "JWT Secret"
+}
