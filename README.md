@@ -21,4 +21,4 @@ npm run dev
 
 => By default The port will be same as specified in .env file, but incase no port is provided 5000 will be assigned as port by defualt.
 
-=> JWT Tokens expire in 36000 miliseconds
+=> JWT Tokens expire in 36000 mili
